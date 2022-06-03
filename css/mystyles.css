@@ -1,0 +1,15 @@
+.site-heading-lower {
+    color:red;
+    font-weight: 1000;
+}
+
+.new-style {
+    color:green;
+}
+
+.graphstuff {
+    position: absolute;
+    left: 40px;
+    width: 500px;
+    height: 100px;
+}
